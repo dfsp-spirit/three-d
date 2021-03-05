@@ -1,5 +1,12 @@
 # `three-d`
 
+### What is this fork?
+
+It contains a very ugly proof-of-concept implementation of a brain viewer in the new `brain` example.
+
+Try `cargo run --example brain` to see it.
+
+
 [![](http://meritbadge.herokuapp.com/three-d)](https://crates.io/crates/three-d)
 [![Docs.rs](https://docs.rs/three-d/badge.svg)](https://docs.rs/three-d)
 
